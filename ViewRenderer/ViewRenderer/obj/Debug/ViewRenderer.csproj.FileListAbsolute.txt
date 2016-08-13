@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\bin\Debug\ViewRenderer.dll
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\bin\Debug\ViewRenderer.pdb
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\obj\Debug\ViewRenderer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\obj\Debug\ViewRenderer.MyPage.xaml.g.cs
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\obj\Debug\ViewRenderer.dll
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\obj\Debug\ViewRenderer.pdb
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\obj\Debug\ViewRenderer.dll.mdb
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\bin\Debug\ViewRenderer.dll.mdb

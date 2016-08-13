@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer.UWP\ViewRenderer.UWP.csproj;x86
+c:\users\user\documents\visual studio 2015\Projects\ViewRenderer\ViewRenderer\ViewRenderer\ViewRenderer.csproj;neutral
